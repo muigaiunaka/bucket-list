@@ -12,3 +12,4 @@ npm install -g cordova
 ```
 
 Download [Apache Ant](https://ant.apache.org/bindownload.cgi)
+Download [Android SDK](https://developer.android.com/studio/index.html)
